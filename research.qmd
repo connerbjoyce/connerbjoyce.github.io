@@ -1,0 +1,22 @@
+
+---
+title: "Research"
+permalink: /research/
+---
+
+## Peer-Reviewed Publications
+
+Joyce, Conner. "Do states constrain non-state hackers? International Telecommunication Union elections and non-state cyber aggression." OnlineFirst at the *Journal of Conflict Resolution*. [(Article)](https://journals.sagepub.com/doi/10.1177/00220027251323557){target=_blank} [(Replication)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SETYU7){target=_blank}
+
+
+## Works in Progress
+
+Joyce, Conner. "Political Action in the Dark Web: Political Mobilization and Radicalization in Illicit Digital Networks."
+
+Joyce, Conner.  "Are cyber-attacks the tools of hawks or doves? Cyber retaliation and US public opinion."
+
+Joyce, Conner, Jesse Johnson, Ashley Leeds, and Scott Wolford.  "Intervention and separate peace in civil war." 
+
+Henn, Soeren, Connor Huff, Conner Joyce, Emily Myers, and Kaitlyn Robinson. "Wartime experiences and post-war political participation."
+
+

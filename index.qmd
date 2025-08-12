@@ -1,0 +1,41 @@
+---
+title: "Conner Joyce"
+pagetitle: "Conner Joyce"
+subtitle: "PhD Candidate,<br>Rice University"
+image: assets/images/head.jpg
+
+about: 
+  template: trestles
+  image-width: 18em
+  image-shape: rounded
+  id: hero-heading
+  links:
+    - text: E-mail
+      icon: envelope
+      href: mailto:cbj4@rice.edu
+    - text: "{{< fa brands bluesky>}} Bluesky"
+      href: https://bsky.app/profile/connerjoyce.bsky.social
+      target: _blank
+    - text: "{{< fa brands google-scholar>}} Google Scholar"
+      href: https://scholar.google.com/citations?view_op=list_works&hl=en&user=EwHCFfgAAAAJ
+      target: _blank
+    - text: GitHub
+      icon: github
+      href: https://github.com/connerbjoyce
+      target: _blank
+      
+format:
+  html:
+    grid:
+      body-width: 1200px
+---
+
+::: {#hero-heading}
+
+<div class="h1">Welcome!</div>
+
+I am a PhD candidate in Political Science at Rice University with a focus in International Relations. My research investigates the impact of digital technology on international security. I study how technology can facilitate the emergence of security threats from non-state actors and how state actors can cooperate to mitigate these threats. I leverage original data collection, large-n observational analysis, large language models, machine learning (deep transfer learning), and experimental designs to conduct this research.
+
+I hold a Master's degree in Public Affairs from the University of Texas LBJ School of Public Affairs and a BA in Political Science from Southwestern University.  
+
+:::
