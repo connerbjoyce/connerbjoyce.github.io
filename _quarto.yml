@@ -23,7 +23,7 @@ website:
         target: _blank
   page-footer:
     background: light
-    right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/ryanjblock/ryanjblock.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
+    right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/connerbjoyce){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 
 
 format:
