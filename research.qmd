@@ -9,14 +9,20 @@ permalink: /research/
 Joyce, Conner. "Do states constrain non-state hackers? International Telecommunication Union elections and non-state cyber aggression." OnlineFirst at the *Journal of Conflict Resolution*. [(Article)](https://journals.sagepub.com/doi/10.1177/00220027251323557){target=_blank} [(Replication)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SETYU7){target=_blank}
 
 
-## Works in Progress
+## Working Papers
 
 Joyce, Conner. "Political Action in the Dark Web: Political Mobilization and Radicalization in Illicit Digital Networks." [(Manuscript)](https://osf.io/preprints/socarxiv/x6yh4_v1){target=_blank}
 
 Joyce, Conner.  "Are cyber-attacks the tools of hawks or doves? Cyber retaliation and US public opinion."
 
-Joyce, Conner, Jesse Johnson, Ashley Leeds, and Scott Wolfor d.  "Intervention and separate peace in civil war." 
+Joyce, Conner, Jesse Johnson, Ashley Leeds, and Scott Wolford.  "Intervention and separate peace in civil war." 
+
+## Works in Progress
 
 Henn, Soeren, Connor Huff, Conner Joyce, Emily Myers, and Kaitlyn Robinson. "Wartime experiences and post-war political participation."
 
+Huff, Connor, Conner Joyce, Caleb Lucas. “How the public responds to AI-enabled terrorism.”
 
+Joyce, Conner, Maranda Joyce, Agustin Prinetti. “Bystanders on social media: Audience moderation and the spread of online extremism.”
+
+Huynh, Trang, Conner Joyce, Yui Nishimura. “Battle-field events as triggers of non-state digital mobilization.”
