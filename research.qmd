@@ -9,15 +9,20 @@ permalink: /research/
 Joyce, Conner. "Do states constrain non-state hackers? International Telecommunication Union elections and non-state cyber aggression." OnlineFirst at the *Journal of Conflict Resolution*. [(Article)](https://journals.sagepub.com/doi/10.1177/00220027251323557){target=_blank} [(Replication)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SETYU7){target=_blank}
 
 
-## Working Papers
+## Under Review or Submitted
 
 Joyce, Conner. "Political Action in the Dark Web: Political Mobilization and Radicalization in Illicit Digital Networks." [(Manuscript)](https://osf.io/preprints/socarxiv/x6yh4_v1){target=_blank}
+
+Joyce, Conner, Maranda Joyce, Agustin Prinetti. “Bystanders on social media: Audience moderation and the spread of online extremism.” [(Manuscript)](https://drive.google.com/file/d/1t0uDJFp0w5Gp1YFr1LUt71CCfKYVIDcN/view){target=_blank}
+
+Huff, Connor, Conner Joyce, Caleb Lucas. "AI-Enabled Terrorism and Public Attitudes about Responsibility." [(Manuscript)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6183059){target=_blank}
+
+
+## Working Papers
 
 Joyce, Conner.  "Are cyber-attacks the tools of hawks or doves? Cyber retaliation and US public opinion."
 
 Johnson, Jesse, Conner Joyce, Ashley Leeds, and Scott Wolford.  "Intervention and separate peace in civil war." 
-
-Huff, Connor, Conner Joyce, Caleb Lucas. "AI-Enabled Terrorism and Public Attitudes about Responsibility."
 
 ## Works in Progress
 
@@ -25,6 +30,3 @@ Henn, Soeren, Connor Huff, Conner Joyce, Emily Myers, and Kaitlyn Robinson. "War
 
 Huff, Connor, Conner Joyce, Caleb Lucas. “How the public responds to AI-enabled terrorism.”
 
-Joyce, Conner, Maranda Joyce, Agustin Prinetti. “Bystanders on social media: Audience moderation and the spread of online extremism.”
-
-Huynh, Trang, Conner Joyce, Yui Nishimura. “Battle-field events as triggers of non-state digital mobilization.”
