@@ -12,7 +12,7 @@ about:
   links:
     - text: E-mail
       icon: envelope
-      href: mailto:cbj4@rice.edu
+      href: mailto:cjoyce@faculty.ie.edu
     - text: "{{< fa brands bluesky>}} Bluesky"
       href: https://bsky.app/profile/connerjoyce.bsky.social
       target: _blank
