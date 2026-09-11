@@ -11,14 +11,18 @@ Joyce, Conner. "Do states constrain non-state hackers? International Telecommuni
 
 ## Under Review or Submitted
 
-Joyce, Conner. "Political Action in the Dark Web: Political Mobilization and Radicalization in Illicit Digital Networks." [(Manuscript)](https://osf.io/preprints/socarxiv/x6yh4_v1){target=_blank}
+Joyce, Conner. "Political action in the dark web: Political mobilization and radicalization in illicit digital networks." [(Manuscript)](https://osf.io/preprints/socarxiv/x6yh4_v1){target=_blank}
+
+- *Franklin L. Burdette/Pi Sigma Alpha APSA Best Overall Paper Award 2026*
+- *Robert M. Howard SPSA Best Paper Award 2025*
+- *Malcolm Jewell Award SPSA Best Graduate Student Paper Award 2025*
 
 Joyce, Conner, Maranda Joyce, Agustin Prinetti. “Bystanders on social media: Audience moderation and the spread of online extremism.” [(Manuscript)](https://drive.google.com/file/d/1t0uDJFp0w5Gp1YFr1LUt71CCfKYVIDcN/view){target=_blank}
 
-Huff, Connor, Conner Joyce, Caleb Lucas. "AI-Enabled Terrorism and Public Attitudes about Responsibility." [(Manuscript)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6183059){target=_blank}
-
 
 ## Working Papers
+
+Huff, Connor, Conner Joyce, Caleb Lucas. "AI-enabled terrorism and public attitudes about responsibility." [(Manuscript)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6183059){target=_blank}
 
 Joyce, Conner.  "Are cyber-attacks the tools of hawks or doves? Cyber retaliation and US public opinion."
 
@@ -26,7 +30,8 @@ Johnson, Jesse, Conner Joyce, Ashley Leeds, and Scott Wolford.  "Intervention an
 
 ## Works in Progress
 
+Conner Joyce. “How moralization mobilizes hacktivist communities during conflicts.“
+
 Henn, Soeren, Connor Huff, Conner Joyce, Emily Myers, and Kaitlyn Robinson. "Wartime experiences and post-war political participation."
 
 Huff, Connor, Conner Joyce, Caleb Lucas. “How the public responds to AI-enabled terrorism.”
-
