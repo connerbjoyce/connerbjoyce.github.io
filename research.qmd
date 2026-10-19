@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Peer-Reviewed Publications
 
-Joyce, Conner. "Do states constrain non-state hackers? International Telecommunication Union elections and non-state cyber aggression." OnlineFirst at the *Journal of Conflict Resolution*. [(Article)](https://journals.sagepub.com/doi/10.1177/00220027251323557){target=_blank} [(Replication)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SETYU7){target=_blank}
+Joyce, Conner. "Do states constrain non-state hackers? International Telecommunication Union elections and non-state cyber aggression." *Journal of Conflict Resolution*. [(Article)](https://journals.sagepub.com/doi/10.1177/00220027251323557){target=_blank} [(Replication)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SETYU7){target=_blank}
 
 
 ## Under Review or Submitted
@@ -17,7 +17,7 @@ Joyce, Conner. "Political action in the dark web: Political mobilization and rad
 - *Robert M. Howard SPSA Best Paper Award 2025*
 - *Malcolm Jewell Award SPSA Best Graduate Student Paper Award 2025*
 
-Joyce, Conner, Maranda Joyce, Agustin Prinetti. “Bystanders on social media: Audience moderation and the spread of online extremism.” [(Manuscript)](https://drive.google.com/file/d/1t0uDJFp0w5Gp1YFr1LUt71CCfKYVIDcN/view){target=_blank}
+Joyce, Conner, Maranda Joyce, Agustin Prinetti. “Bystanders on social media: Audience moderation and the spread of online extremism.” **Revise and Resubmit at the Journal of Experimental Political Science** [(Manuscript)](https://drive.google.com/file/d/1t0uDJFp0w5Gp1YFr1LUt71CCfKYVIDcN/view){target=_blank}
 
 Huff, Connor, Conner Joyce, Caleb Lucas. "AI-enabled terrorism and public attitudes about responsibility." [(Manuscript)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6183059){target=_blank}
 
